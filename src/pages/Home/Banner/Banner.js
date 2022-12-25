@@ -15,9 +15,9 @@ const Banner = () => {
             More than Just <br /> Shorter List
           </h1>
           <p className="py-6">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-            excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
-            a id nisi.
+            Shorten your weblink list by usign this shortner app. which not only
+            save your time to set your link in any design but aslo help you to
+            provide with more security.
           </p>
           <button className="bg-info py-2 px-3 rounded-3xl mt-3">
             Get Started
