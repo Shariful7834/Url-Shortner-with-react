@@ -20,7 +20,7 @@ const Banner = () => {
             provide with more security.
           </p>
           <button className="bg-info py-2 px-3 rounded-3xl mt-3">
-            Get Started
+            Let's Started
           </button>
         </div>
       </div>
